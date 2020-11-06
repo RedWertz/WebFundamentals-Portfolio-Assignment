@@ -1,2 +1,1 @@
-# WebFun-Portfolio-Assignment
- webfun portfolio assignment
+Ronald Wertz - WebFun - Portfolio assignment
